@@ -3,8 +3,8 @@
 | Week | Activities                                |
 | ---- | ----------------------------------------- |
 | 1    | Lecture 1                                 |
-| 2    | Lecture 2, Deadline for project proposals |
-| 3    | Lecture 3                                 |
+| 2    | Lecture 2                                 |
+| 3    | Lecture 3, Deadline for project proposals |
 | 4    | Lecture 4                                 |
 | 5    | Literature review presentations           |
 | 6    | Seminar 1                                 |
