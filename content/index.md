@@ -3,6 +3,7 @@ title: Homepage
 ---
 Hi! This is a website of the course on unsupervised learning that I am teaching at MIPT for 4th year students.
 
+[[Course logistics]]\
 Course tg group: [UL2024](https://t.me/+DaXWVMKJtjc5OTg6)\
 My tg: [@misha_goncharov](https://t.me/misha_goncharov)
 
